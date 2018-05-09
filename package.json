@@ -1,0 +1,20 @@
+{
+  "name": "ProtocolBackpack",
+  "version": "1.0.0",
+  "description": "Explore Majestic nature monuments, most popular and most hidden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truelav/ProtocolBackpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truelav/ProtocolBackpack/issues"
+  },
+  "homepage": "https://github.com/truelav/ProtocolBackpack#readme"
+}
